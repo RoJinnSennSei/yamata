@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="yamata Maven Webapp"
+  id="myeclipse.1466757988245"
+  context-root="/yamata"
+  j2ee-spec="6.0"
+  archive="yamata Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
