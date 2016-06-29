@@ -24,5 +24,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
    BBBB page. <br>
+   <img alt="" src="images/bg.jpg" title="戦場ヶ原　ひたぎ">
   </body>
 </html>
